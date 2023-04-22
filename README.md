@@ -2,7 +2,7 @@
 
 ## FACIAL EMOTION DETECTION TO ASSESS LEARNERS’ STATE OF MIND IN AN ONLINE LEARNING SYSTEM
 
-## Due to the COVID-19 pandemic's severe effects, physical classrooms have been closed and
+Due to the COVID-19 pandemic's severe effects, physical classrooms have been closed and
 teaching techniques have been switched to the online environment. Making ensuring that
 students are properly engaged throughout online learning sessions is crucial if we want to
 make the learning environment more dynamic, similar to that of conventional offline
